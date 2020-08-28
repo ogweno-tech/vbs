@@ -1,1 +1,2 @@
-#my first code
+#my first code 
+web dev is amazing
