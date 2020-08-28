@@ -1,3 +1,2 @@
-#my first code 
-web dev is amazing
-verily
+# My portfolio
+# how amazing is Github
